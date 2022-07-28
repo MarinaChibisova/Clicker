@@ -1,3 +1,3 @@
 # Clicker
-Clicker game (JS)
+Clicker game.
 Игра на JavaScript.
